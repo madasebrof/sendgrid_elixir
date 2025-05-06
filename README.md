@@ -3,6 +3,10 @@
 A wrapper for SendGrid's API to create composable emails.
 Check the [docs](https://hexdocs.pm/sendgrid/) for complete usage.
 
+## Updated in 2025
+
+This repo was updated to remove `Tesla` warnings with Elixir 1.18
+
 ## Example
 
 ```elixir
