@@ -47,7 +47,7 @@ defmodule SendGrid.Mixfile do
       {:jason, "~> 1.2"},
       {:phoenix, "~> 1.2", only: :test},
       {:phoenix_html, "~> 2.9", only: :test},
-      {:tesla, "~> 1.2"}
+      {:tesla, "~> 1.14.1"}
     ]
   end
 
